@@ -25,7 +25,7 @@ body{
     padding-top: 1px;
 	}
 #logo{
-    margin-top: -64px;
+    margin-top: -51px;
     margin-left: 31px;
 }
 #nav ul{
@@ -145,7 +145,41 @@ body{
 #footer{
     float: left;
     width: 1144px;
-    height: 257px;
-    background-color: #7A3907;
+    height: 255px;
+    background-color: #F49819;
     margin-top: 32px;
+}
+#mapa{
+    width: 350px;
+    height: 200px;
+    margin-left: 218px;
+    margin-top: 32px;
+}
+#elementos-sitio{
+    width: 350px;
+    height: 113px;
+    margin-left: 131px;
+    margin-top: -145px;
+    margin-bottom: -12px;
+    text-align: center;
+}
+#datos{
+    width: 350px;
+    height: 40px;
+    margin-left: 726px;
+    margin-top: -171px;
+}
+#direccion{
+    margin-left: 701px;
+    margin-top: 11px;
+}
+#copyright{
+    width: 1144px;
+    height: 0px;
+    margin-left: 0px;
+    margin-top: 27px;
+    text-align: center;
+    background-color: #5F1000;
+    color: #ffffff;
+    padding-bottom: 43px;
 }
